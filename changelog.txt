@@ -1,0 +1,2 @@
+1.0.0:
+	- Separated documentation branch from KCWI_DRP repo to avoid issue when
